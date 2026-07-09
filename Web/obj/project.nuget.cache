@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/Ie+hzboTg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Richard\\source\\repos\\School_Attendance\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
